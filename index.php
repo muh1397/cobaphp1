@@ -1,1 +1,5 @@
-ini adalalh index php pertama
+<?php
+
+echo "PHP adalah Bahasa Pemograman";
+
+?>
