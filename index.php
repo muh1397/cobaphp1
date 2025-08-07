@@ -1,0 +1,1 @@
+ini adalalh index php pertama
